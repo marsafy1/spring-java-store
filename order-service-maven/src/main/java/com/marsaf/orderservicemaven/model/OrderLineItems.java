@@ -1,4 +1,4 @@
-package model;
+package com.marsaf.orderservicemaven.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
